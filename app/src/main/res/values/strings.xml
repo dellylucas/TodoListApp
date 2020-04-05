@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string name="file_name_list">listApp.txt</string>
+    <string name="empty_input_alert">write something!</string>
+    <string name="welcome_alert">Welcome!!</string>
+    <string name="hint_input_text">Write your next task</string>
+    <string name="name_button_add">ADD</string>
+    <string name="name_main_activity">TODO List</string>
+</resources>
